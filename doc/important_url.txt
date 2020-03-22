@@ -4,3 +4,7 @@ http://yann.lecun.com/exdb/mnist/
 Load MNIST dataset:
 https://www.kaggle.com/hojjatk/read-mnist-dataset
 https://gist.github.com/akesling/5358964
+
+Example use TensorFlow:
+https://www.tensorflow.org/tutorials/quickstart/beginner
+https://www.tensorflow.org/tutorials/quickstart/advanced
