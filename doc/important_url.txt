@@ -1,2 +1,6 @@
 MNIST dataset:
 http://yann.lecun.com/exdb/mnist/
+
+Load MNIST dataset:
+https://www.kaggle.com/hojjatk/read-mnist-dataset
+https://gist.github.com/akesling/5358964
