@@ -22,3 +22,14 @@ Explanation:
 - source = classes/moudules/functions can be used in multiple workspaces
 - workspace/notebook = all of jupyter notebook files (save as google colab as notebook)
 - workspace/cli = all of cli (command line interface) apps
+
+
+## runing and testing on google colabs.
+Create Colab on Google Drive :
+ - On google drive, click New --> More --> Google Colaboratory 
+ - Running colab, Right click *.pynb --> open with --> Colaboratory 
+ - GPU Setup, from menubar click Edit --> netbook settings --> on Hardware accelerator choose GPU --> Save
+Clone project into drive for archive
+ - On Google colab rung script : !git clone https:
+
+
