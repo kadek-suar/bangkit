@@ -38,6 +38,20 @@ Running project into colab
    google colaburatory
  - running scrip from google.colab import drive drive.mount('/content/drive/your porject') --> go to url browser and select your google    acount and allow to access drive --> copy code authorize and enter
  - Select runtime on menu bar and run all
- 
+
+Running result
+Epoch 1/5
+1875/1875 [==============================] - 4s 2ms/step - loss: 0.2990 - accuracy: 0.9128
+Epoch 2/5
+1875/1875 [==============================] - 4s 2ms/step - loss: 0.1438 - accuracy: 0.9576
+Epoch 3/5
+1875/1875 [==============================] - 4s 2ms/step - loss: 0.1073 - accuracy: 0.9674
+Epoch 4/5
+1875/1875 [==============================] - 4s 2ms/step - loss: 0.0893 - accuracy: 0.9720
+Epoch 5/5
+1875/1875 [==============================] - 4s 2ms/step - loss: 0.0756 - accuracy: 0.9765
+<tensorflow.python.keras.callbacks.History at 0x7f14938dd048>
+
+The image classifier is now trained to ~98% accuracy on this dataset
 
 
